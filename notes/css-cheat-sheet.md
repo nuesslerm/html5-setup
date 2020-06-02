@@ -20,6 +20,8 @@
 * https://www.w3schools.com/css/exercise.asp
 * https://zero-to-mastery.github.io/resources/
 
+* https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+
 ### Flexbox:
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * http://flexboxfroggy.com/
